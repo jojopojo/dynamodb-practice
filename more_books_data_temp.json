@@ -1,0 +1,123 @@
+[
+    {
+      "book_id": 1,
+      "book_name": "The Unknown Soldier",
+      "isbn": "9789510208292",
+      "author": "Väinö Linna"
+    },
+    {
+      "book_id": 2,
+      "book_name": "The Year of the Hare",
+      "isbn": "9789511188654",
+      "author": "Arto Paasilinna"
+    },
+    {
+      "book_id": 3,
+      "book_name": "Troll: A Love Story",
+      "isbn": "9780802170718",
+      "author": "Johanna Sinisalo"
+    },
+    {
+      "book_id": 4,
+      "book_name": "The Cairo Trilogy",
+      "isbn": "9780375714338",
+      "author": "Naguib Mahfouz"
+    },
+    {
+      "book_id": 5,
+      "book_name": "Purge",
+      "isbn": "9780802170770",
+      "author": "Sofi Oksanen"
+    },
+    {
+      "book_id": 6,
+      "book_name": "Helsinki White",
+      "isbn": "9781909223194",
+      "author": "James Thompson"
+    },
+    {
+      "book_id": 7,
+      "book_name": "The Human Part",
+      "isbn": "9781909223552",
+      "author": "Kari Hotakainen"
+    },
+    {
+      "book_id": 8,
+      "book_name": "Memory of Water",
+      "isbn": "9781782064916",
+      "author": "Emmi Itäranta"
+    },
+    {
+      "book_id": 9,
+      "book_name": "The Rabbit Back Literature Society",
+      "isbn": "9781908670335",
+      "author": "Pasi Ilmari Jääskeläinen"
+    },
+    {
+      "book_id": 10,
+      "book_name": "Tove Jansson: Work and Love",
+      "isbn": "9780140284959",
+      "author": "Tuula Karjalainen"
+    },
+    {
+      "book_id": 11,
+      "book_name": "The Redbreast",
+      "isbn": "9780062068422",
+      "author": "Jo Nesbø"
+    },
+    {
+      "book_id": 12,
+      "book_name": "The Gingerbread House",
+      "isbn": "9780099520378",
+      "author": "Carin Gerhardsen"
+    },
+    {
+      "book_id": 13,
+      "book_name": "The Blood Strand",
+      "isbn": "9781503954001",
+      "author": "Chris Ould"
+    },
+    {
+      "book_id": 14,
+      "book_name": "The Hummingbird",
+      "isbn": "9780857522075",
+      "author": "Kati Hiekkapelto"
+    },
+    {
+      "book_id": 15,
+      "book_name": "Nothing But the Truth",
+      "isbn": "9781408886384",
+      "author": "Clare Lydon"
+    },
+    {
+      "book_id": 16,
+      "book_name": "The Winter of the Lions",
+      "isbn": "9781908643889",
+      "author": "Jan Costin Wagner"
+    },
+    {
+      "book_id": 17,
+      "book_name": "Snow Angels",
+      "isbn": "9781250009624",
+      "author": "James Thompson"
+    },
+    {
+      "book_id": 18,
+      "book_name": "City of Women",
+      "isbn": "9780062202289",
+      "author": "David R. Gillham"
+    },
+    {
+      "book_id": 19,
+      "book_name": "Burning Angels",
+      "isbn": "9780312580693",
+      "author": "Bear Grylls"
+    },
+    {
+      "book_id": 20,
+      "book_name": "The Dead of Summer",
+      "isbn": "9781408840973",
+      "author": "Camilla Way"
+    }
+  ]
+  

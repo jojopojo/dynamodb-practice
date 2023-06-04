@@ -1,0 +1,123 @@
+[
+    {
+      "book_id": 1,
+      "book_name": "The Great Gatsby",
+      "isbn": "9780743273565",
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "book_id": 2,
+      "book_name": "To Kill a Mockingbird",
+      "isbn": "9780061120084",
+      "author": "Harper Lee"
+    },
+    {
+      "book_id": 3,
+      "book_name": "1984",
+      "isbn": "9780451524935",
+      "author": "George Orwell"
+    },
+    {
+      "book_id": 4,
+      "book_name": "Pride and Prejudice",
+      "isbn": "9780141439518",
+      "author": "Jane Austen"
+    },
+    {
+      "book_id": 5,
+      "book_name": "The Catcher in the Rye",
+      "isbn": "9780316769488",
+      "author": "J.D. Salinger"
+    },
+    {
+      "book_id": 6,
+      "book_name": "Moby-Dick",
+      "isbn": "9780142437247",
+      "author": "Herman Melville"
+    },
+    {
+      "book_id": 7,
+      "book_name": "To the Lighthouse",
+      "isbn": "9780156030471",
+      "author": "Virginia Woolf"
+    },
+    {
+      "book_id": 8,
+      "book_name": "The Lord of the Rings",
+      "isbn": "9780544003415",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "book_id": 9,
+      "book_name": "Harry Potter and the Sorcerer's Stone",
+      "isbn": "9780590353427",
+      "author": "J.K. Rowling"
+    },
+    {
+      "book_id": 10,
+      "book_name": "The Odyssey",
+      "isbn": "9780140268867",
+      "author": "Homer"
+    },
+    {
+      "book_id": 11,
+      "book_name": "The Adventures of Huckleberry Finn",
+      "isbn": "9780486280615",
+      "author": "Mark Twain"
+    },
+    {
+      "book_id": 12,
+      "book_name": "Brave New World",
+      "isbn": "9780060850524",
+      "author": "Aldous Huxley"
+    },
+    {
+      "book_id": 13,
+      "book_name": "The Great Expectations",
+      "isbn": "9780141439563",
+      "author": "Charles Dickens"
+    },
+    {
+      "book_id": 14,
+      "book_name": "The Chronicles of Narnia",
+      "isbn": "9780066238500",
+      "author": "C.S. Lewis"
+    },
+    {
+      "book_id": 15,
+      "book_name": "Jane Eyre",
+      "isbn": "9780141441146",
+      "author": "Charlotte Bronte"
+    },
+    {
+      "book_id": 16,
+      "book_name": "Animal Farm",
+      "isbn": "9780451526342",
+      "author": "George Orwell"
+    },
+    {
+      "book_id": 17,
+      "book_name": "Crime and Punishment",
+      "isbn": "9780140449136",
+      "author": "Fyodor Dostoyevsky"
+    },
+    {
+      "book_id": 18,
+      "book_name": "The Hobbit",
+      "isbn": "9780618260300",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "book_id": 19,
+      "book_name": "The Alchemist",
+      "isbn": "9780062315007",
+      "author": "Paulo Coelho"
+    },
+    {
+      "book_id": 20,
+      "book_name": "The Divine Comedy",
+      "isbn": "9780142437223",
+      "author": "Dante Alighieri"
+    }
+  ]
+  
