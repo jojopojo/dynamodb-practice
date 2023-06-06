@@ -1,22 +1,20 @@
 import boto3
-from botocore.exceptions import NoCredentialsError
-
-# Create a connection to DynamoDB Local
+# This doesnt work... look at create-books.py for working script
 dynamodb = boto3.resource('dynamodb', 
                           aws_access_key_id="dummy",
                           aws_secret_access_key="dummy",
                           region_name="local",
                           endpoint_url='http://localhost:8000')
 
-# Define table name and attribute definitions
-table_name = 'Books'
+table_name = 'Users'
+
 attribute_definitions = [
     {
-        'AttributeName': 'book_id',
-        'AttributeType': 'N'  # N represents a number
+        'AttributeName': 'user_id',
+        'AttributeType': 'S'  # N represents a number
     },
     {
-        'AttributeName': 'book_name',
+        'AttributeName': 'password',
         'AttributeType': 'S'
     }
 ]
@@ -24,14 +22,15 @@ attribute_definitions = [
 # Define the key schema for the table
 key_schema = [
     {
-        'AttributeName': 'book_id',
+        'AttributeName': 'user_id',
         'KeyType': 'HASH'  # HASH represents the partition key
     },
     {
-        'AttributeName': 'book_name',
+        'AttributeName': 'password',
         'KeyType': 'RANGE'
     }
 ]
+
 
 # Define the provisioned throughput for the table (adjust according to your needs)
 provisioned_throughput = {
